@@ -1,0 +1,15 @@
+C:\Users\55219\OneDrive\Documentos\GitHub\CadastroFilmesDIO\SeriesDIO\obj\Debug\net6.0\SeriesDIO.csproj.AssemblyReference.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\CadastroFilmesDIO\SeriesDIO\obj\Debug\net6.0\SeriesDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55219\OneDrive\Documentos\GitHub\CadastroFilmesDIO\SeriesDIO\obj\Debug\net6.0\SeriesDIO.AssemblyInfoInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\CadastroFilmesDIO\SeriesDIO\obj\Debug\net6.0\SeriesDIO.AssemblyInfo.cs
+C:\Users\55219\OneDrive\Documentos\GitHub\CadastroFilmesDIO\SeriesDIO\obj\Debug\net6.0\SeriesDIO.csproj.CoreCompileInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\CadastroFilmesDIO\SeriesDIO\bin\Debug\net6.0\SeriesDIO.exe
+C:\Users\55219\OneDrive\Documentos\GitHub\CadastroFilmesDIO\SeriesDIO\bin\Debug\net6.0\SeriesDIO.deps.json
+C:\Users\55219\OneDrive\Documentos\GitHub\CadastroFilmesDIO\SeriesDIO\bin\Debug\net6.0\SeriesDIO.runtimeconfig.json
+C:\Users\55219\OneDrive\Documentos\GitHub\CadastroFilmesDIO\SeriesDIO\bin\Debug\net6.0\SeriesDIO.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\CadastroFilmesDIO\SeriesDIO\bin\Debug\net6.0\ref\SeriesDIO.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\CadastroFilmesDIO\SeriesDIO\bin\Debug\net6.0\SeriesDIO.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\CadastroFilmesDIO\SeriesDIO\obj\Debug\net6.0\SeriesDIO.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\CadastroFilmesDIO\SeriesDIO\obj\Debug\net6.0\ref\SeriesDIO.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\CadastroFilmesDIO\SeriesDIO\obj\Debug\net6.0\SeriesDIO.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\CadastroFilmesDIO\SeriesDIO\obj\Debug\net6.0\SeriesDIO.genruntimeconfig.cache

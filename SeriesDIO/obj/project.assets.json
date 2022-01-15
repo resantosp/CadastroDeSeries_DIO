@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\55219\\OneDrive\\Documentos\\GitHub\\CadastroDeSeries_DIO\\SeriesDIO\\SeriesDIO.csproj",
+      "projectUniqueName": "C:\\Users\\55219\\OneDrive\\Documentos\\GitHub\\CadastroFilmesDIO\\SeriesDIO\\SeriesDIO.csproj",
       "projectName": "SeriesDIO",
-      "projectPath": "C:\\Users\\55219\\OneDrive\\Documentos\\GitHub\\CadastroDeSeries_DIO\\SeriesDIO\\SeriesDIO.csproj",
+      "projectPath": "C:\\Users\\55219\\OneDrive\\Documentos\\GitHub\\CadastroFilmesDIO\\SeriesDIO\\SeriesDIO.csproj",
       "packagesPath": "C:\\Users\\55219\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\55219\\OneDrive\\Documentos\\GitHub\\CadastroDeSeries_DIO\\SeriesDIO\\obj\\",
+      "outputPath": "C:\\Users\\55219\\OneDrive\\Documentos\\GitHub\\CadastroFilmesDIO\\SeriesDIO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\55219\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -26,6 +26,11 @@ namespace SeriesDIO
             retorno += "Título: " + this.Titulo + Environment.NewLine;
             retorno += "Sinopse: " + this.Descricao + Environment.NewLine;
             retorno += "Ano de Lançamento: " + this.Ano + Environment.NewLine;
+            if (Excluido == true)
+            {
+                retorno += "Excluído.";
+            }
+            
             return retorno;
         }
 
@@ -37,6 +42,11 @@ namespace SeriesDIO
         public int retornaId()
         {
             return this.Id;
+        }
+
+        public bool retornaEcluido()
+        {
+            return this.Excluido;
         }
 
         public void Excluir()
