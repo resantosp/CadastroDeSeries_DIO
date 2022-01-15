@@ -78,7 +78,7 @@ namespace SeriesDIO
 			foreach (int i in Enum.GetValues(typeof(Genero)))
 			{
 				System.Console.WriteLine();
-                Console.WriteLine("{0}-{1}", i, Enum.GetName(typeof(Genero), i));
+                Console.WriteLine("{0} - {1}", i, Enum.GetName(typeof(Genero), i));
 			}
 
             System.Console.WriteLine();
