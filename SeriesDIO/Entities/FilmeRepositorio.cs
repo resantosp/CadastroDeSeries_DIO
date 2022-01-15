@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using SeriesDIO.Interfaces;
+using System.Linq;
 
 namespace SeriesDIO //O programa vai instanciar o repositório e mexemos só com ele
 {
@@ -34,7 +35,7 @@ namespace SeriesDIO //O programa vai instanciar o repositório e mexemos só com
 
         public Filme RetornaPorId(int id)
         {
-            return listaFilmes[id];
+            return listaFilmes.FirstOrDefault(_ => _.Id == id);
         }
     }
 }
